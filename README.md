@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Emma Sihyun Lee / 이시현</h1>
+<h1 align="center">👋 Emma Sihyun Lee / 이시현</h1>
 <h3 align="center">Computer Science - AI Student at McGill University</h3>
 
 <h3 align="left">Connect with me:</h3>
